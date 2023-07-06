@@ -8,3 +8,4 @@ Jiahui's homework for Module 9
 de_schema.sql is the table schema for each of the six CSV files.
 
 ## Data Analysis
+da_query.sql is the SQL code based on the questions in the data analysis section.
