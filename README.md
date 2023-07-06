@@ -2,7 +2,7 @@
 Jiahui's homework for Module 9
 
 ## Data Modeling
-*.png is the Entity Relationship Diagram of the tables.
+m9 Entity Relationship Diagram.png is the Entity Relationship Diagram of the tables.
 
 ## Data Engineering
 de_schema.sql is the table schema for each of the six CSV files.
